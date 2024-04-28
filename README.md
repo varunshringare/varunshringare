@@ -1,6 +1,6 @@
 - 👋 Hi, I’m varunshringare
 - 👀 I’m interested in software development and entrepreneurship
-- 🌱 I’m currently learning compiter science engineering at PCCE , Goa, India
+- 🌱 I’m currently learning computer science engineering at PCCE , Goa, India
 - 💞️ I’m looking to collaborate on team projets involving innovation and modern algorithms
 - 📫 mail me at vdshringare@gmail.com
 
